@@ -15,7 +15,12 @@ area_circle <- function(r) {
 }
 
 area_circle(3)
+
+area_rectangle <- function(w, h) {
+  w * h
+}
 ```
 This file calculates areas
 
 more text
+
