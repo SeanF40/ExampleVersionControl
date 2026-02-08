@@ -16,5 +16,5 @@ area_circle <- function(r) {
 
 area_circle(3)
 ```
-
+This file calculates areas
 
